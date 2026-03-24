@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 // import heroImage from "../assets/hero.jpg";
-import heroImage from "../assets/me/6.jpg";
+import heroImage from "../assets/me/5.jpg";
 
 const Hero = () => {
   const seamlessMorph = [
