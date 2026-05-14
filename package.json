@@ -8,9 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "npm run build && wrangler dev",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "npm run build && wrangler dev"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
