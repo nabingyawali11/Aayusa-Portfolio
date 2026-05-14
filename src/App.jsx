@@ -1,6 +1,7 @@
-import React from 'react';
-import Home from './pages/Home';
-import ScrollToTop from './components/ScrollToTop';
+import React from "react";
+import Home from "./pages/Home";
+import ScrollToTop from "./components/ScrollToTop";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
